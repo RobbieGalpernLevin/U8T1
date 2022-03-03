@@ -55,7 +55,7 @@ public class Runner
         arr2[2][0] = 3;
         arr2[0][1] = 4;
         arr2[1][1] = 5;
-        arr2[2][] = 6;
+        arr2[2][1] = 6;
 
         for(int num[] : arr2)
         {
